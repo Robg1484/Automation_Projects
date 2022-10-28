@@ -1,0 +1,3 @@
+com\junitproject\qa\pages\HomePage.class
+com\junitproject\qa\util\TestUtil.class
+com\junitproject\qa\base\TestBase.class

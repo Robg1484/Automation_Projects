@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-27T09:53:06 EDT" name="Default suite" finished-at="2022-10-27T09:53:25 EDT" duration-ms="19470">
+    <groups>
+    </groups>
+    <test started-at="2022-10-27T09:53:06 EDT" name="Default test" finished-at="2022-10-27T09:53:25 EDT" duration-ms="19470">
+      <class name="com.junitproject.qa.testcases.TestngTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.junitproject.qa.testcases.TestngTestCases@18d87d80]" started-at="2022-10-27T09:53:06 EDT" name="setup" finished-at="2022-10-27T09:53:07 EDT" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateUserCanAddCategory()[pri:1, instance:com.junitproject.qa.testcases.TestngTestCases@18d87d80]" started-at="2022-10-27T09:53:07 EDT" name="validateUserCanAddCategory" finished-at="2022-10-27T09:53:08 EDT" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserCanAddCategory -->
+        <test-method signature="validateMonthDropDownHasAllMonths()[pri:2, instance:com.junitproject.qa.testcases.TestngTestCases@18d87d80]" started-at="2022-10-27T09:53:08 EDT" name="validateMonthDropDownHasAllMonths" finished-at="2022-10-27T09:53:08 EDT" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMonthDropDownHasAllMonths -->
+        <test-method signature="validateUserCannotDuplicateCategory()[pri:3, instance:com.junitproject.qa.testcases.TestngTestCases@18d87d80]" started-at="2022-10-27T09:53:08 EDT" name="validateUserCannotDuplicateCategory" finished-at="2022-10-27T09:53:09 EDT" duration-ms="819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserCannotDuplicateCategory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.junitproject.qa.testcases.TestngTestCases@18d87d80]" started-at="2022-10-27T09:53:09 EDT" name="teardown" finished-at="2022-10-27T09:53:25 EDT" duration-ms="16249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.junitproject.qa.testcases.TestngTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
